@@ -1,16 +1,3 @@
-```html
-![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
-![Org-mode](https://img.shields.io/badge/Org--mode-77AA99?style=flat-square&logo=org&logoColor=white)
-![Guix](https://img.shields.io/badge/Guix-FFCC00?style=flat-square&logo=gnu&logoColor=black)
-![Nushell](https://img.shields.io/badge/Nushell-4E9A06?style=flat-square&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Dvorak](https://img.shields.io/badge/Keyboard-Dvorak-black?style=flat-square)
-![Profile](https://img.shields.io/badge/Profile-Technical%20%2F%20IT-informational?style=flat-square)
-![Status](https://img.shields.io/badge/Status-WIP-yellow?style=flat-square)
-```
-
----
-
 ### Hi, I'm Cogito
 
 I build systems — not software as product, but the scaffolding that makes thought itself reproducible.
