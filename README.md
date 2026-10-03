@@ -1,5 +1,6 @@
 ### Hi, I'm Cogito
 ( outdated.. brb ) 
+
 I build systems — not software as product, but the scaffolding that makes thought itself reproducible.
 
 Self-taught. Keyboard-first. Obsessed with the geometry of knowledge. Perpetually dissecting the machinery until the machinery becomes the map.
